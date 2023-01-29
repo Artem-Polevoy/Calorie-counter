@@ -1,4 +1,4 @@
-# Calorie-counter
+# :sparkles:Calorie-counter:sparkles:
 In this project I programmed a one-page application that works in the browser - the calorie counter. The application allows you to calculate individual daily calorie allowance.
 
 ### Terms of Reference
@@ -17,3 +17,5 @@ In this project I programmed a one-page application that works in the browser - 
 ### Button "Clear fields and calculation".
 - Becomes active when at least one numeric field is full.
 - When you click, all elements of the application are reset to the default state: numeric fields are cleared (placeholder 0), gender becomes male, physical activity is "minimal", and the block with calorie information is hidden.
+
+<a href="https://artem-polevoy.github.io/store-game/"><img src="https://img.shields.io/badge/Go to website-blue" width="120px"></a>
