@@ -11,8 +11,8 @@ In this project I programmed a one-page application that works in the browser - 
 - The block with calorie information is hidden.
 
 ### The "Calculate" button
--Becomes active only when all input fields are filled in.
--By clicking on the button a block with information about calories appears, if it was not shown before. If the block is already on the page, clicking on the button updates the calculations and displays the current information.
+- Becomes active only when all input fields are filled in.
+- By clicking on the button a block with information about calories appears, if it was not shown before. If the block is already on the page, clicking on the button updates the calculations and displays the current information.
 
 ### Button "Clear fields and calculation".
 - Becomes active when at least one numeric field is full.
