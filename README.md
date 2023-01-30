@@ -18,4 +18,4 @@ In this project I programmed a one-page application that works in the browser - 
 - Becomes active when at least one numeric field is full.
 - When you click, all elements of the application are reset to the default state: numeric fields are cleared (placeholder 0), gender becomes male, physical activity is "minimal", and the block with calorie information is hidden.
 
-<a href="https://artem-polevoy.github.io/Calorie-counter/"><img src="https://img.shields.io/badge/Go" width="120px"></a>
+<a href="https://artem-polevoy.github.io/Calorie-counter/"><img src="https://img.shields.io/badge/Go to counter-blue" width="120px"></a>
